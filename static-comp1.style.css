@@ -1,0 +1,46 @@
+body{
+  background-color:#bd9a59;
+  color: #2c2742;
+  font-family:"Open Sans", sans-serif;
+}
+
+nav{
+  background-color:#2c2742;
+  color: #b2b2b2;
+}
+
+h1{
+	background-color:#827b98;
+	display: block;
+}
+
+div.shares{
+	background-color:#827b98;
+	height: 80px;
+	margin-top: 0px;
+	text-align: left;
+	padding: 9px 5px 0px 5px;
+}
+
+
+section.flex-container{
+  background-color: #827b98;
+  display:flex;
+  flex-flow: row-wrap;
+  width: 100%;
+}
+
+.card{
+	background-color: #b2b2b2;
+	height:300px;
+	width: 230px;
+	margin: 5px;
+
+}
+
+p.link{
+	font-size: 15%;
+	background-color:#827b98;
+	margin: 5px;
+	padding: 2px;
+}
